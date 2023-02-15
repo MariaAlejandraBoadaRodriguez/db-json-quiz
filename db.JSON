@@ -1,0 +1,284 @@
+{
+    "questions": [
+        {
+            "correctAnswerId": "a1-a1",
+            "answers": [
+            {
+                "description": "Viciados de culpa grave",
+                "id": "a1-a2",
+                "isCorrect": false
+            },
+            {
+                "description": "Viciados de nulidad Absoluta",
+                "id": "a1-a3",
+                "isCorrect": true
+            },
+            {
+                "description": "Acarrean Multa",
+                "id": "a1-a4",
+                "isCorrect": false
+            },
+            {
+                "description": "Viciados de nulidad relativa",
+                "id": "a1-a5",
+                "isCorrect": false
+            }
+            ],
+            "id": "a1-a6",
+            "question": "Los contratos estatales que se celebren con abuso o desviación de poder serán:",
+            "reason":"Porque es un objeto ilicito, concepto enmarcado en la Ley 1150 de 2007"
+        },
+        {
+            "correctAnswerId": "a1-a7",
+            "answers": [
+            {
+                "description": "Marco conceptual",
+                "id": "a1-a8",
+                "isCorrect": false
+            },
+            {
+                "description": "Visión",
+                "id": "a1-a9",
+                "isCorrect": false
+            },
+            {
+                "description": "Objetivos de planeación",
+                "id": "a1-a10",
+                "isCorrect": false
+            },
+            {
+                "description": "Objetivos estratégicos",
+                "id": "a1-a11",
+                "isCorrect": true
+            }
+            ],
+            "id": "a1-a12",
+            "question": "Expresión de los logros que se espera que las entidades públicas alcancen en el largo y mediano plazo, en el marco del cumplimiento de su propósito fundamental y de las prioridades del gobierno",
+            "reason":"Segun el DNP existen 4 componentes para realizar un Plan Nacional de Desarrollo, de los cuales los objeticos estrategicos se encargan de establecer el mediano y largo lazo de la misión y la visión de cada entidad"
+        },
+        {
+            "correctAnswerId": "a1-a13",
+            "answers": [
+            {
+                "description": "Autogestión",
+                "id": "a1-a14",
+                "isCorrect": false
+            },
+            {
+                "description": "utogestión",
+                "id": "a1-a15",
+                "isCorrect": false
+            },
+            {
+                "description": "Cadena de valor",
+                "id": "a1-a16",
+                "isCorrect": true
+            },
+            {
+                "description": "Autorregulación",
+                "id": "a1-a17",
+                "isCorrect": false
+            }
+            ],
+            "id": "a1-a18",
+            "question": "Capacidad de cada una de las organizaciones para desarrollar y aplicar en su interior métodos, normas y procedimientos que permitan el desarrollo, implementación y fortalecimiento incremental del sistema de control interno, en concordancia con la normatividad vigente",
+            "reason":"Segun el Modelo de Planeación y gestión MIPG todas las organizaciones deben fortalecer sus sistema de control interno como un mecanismo de autorregulación"
+        },
+        {
+            "correctAnswerId": "a1-a19",
+            "answers": [
+            {
+                "description": "El 90% o más del capital social",
+                "id": "a1-a20",
+                "isCorrect": true
+            },
+            {
+                "description": "El 65% o más del capital social",
+                "id": "a1-a21",
+                "isCorrect": false
+            },
+            {
+                "description": "El 30% o más del capital social",
+                "id": "a1-a22",
+                "isCorrect": false
+            },
+            {
+                "description": "El 50% o más del capital social",
+                "id": "a1-a23",
+                "isCorrect": false
+            }
+            ],
+            "id": "a1-a24",
+            "question": "El modelo integrado de planeación y gestión MIPG, se adoptara por los organismos y entidades de los órdenes nacional y territorial de la rama ejecutiva del poder público. En el caso de las entidades descentralizadas con capital público y privado, el modelo aplicara en aquellas en que el estado posea:",
+            "reason":"Segun la ley 87 de 1993 los organismos que posean al menos el 90% de recursos públicos deben implementar MIPG"
+        },
+        {
+            "correctAnswerId": "a1-a25",
+            "answers": [
+            {
+                "description": "ISO 9001",
+                "id": "a1-a26",
+                "isCorrect": false
+            },
+            {
+                "description": "SSIG",
+                "id": "a1-a27",
+                "isCorrect": false
+            },
+            {
+                "description": "ITTA",
+                "id": "a1-a28",
+                "isCorrect": false
+            },
+            {
+                "description": "MIPG",
+                "id": "a1-a29",
+                "isCorrect": true
+            }
+            ],
+            "id": "a1-a30",
+            "question": "Sistema de gestión creado en el artículo 133 de la ley 1753 de 2015, que integra los sistemas de desarrollo administrativo y de gestión de la calidad y lo articula con el sistema de control interno",
+            "reason":"El Modelo Integrado de Planeación y Gestión - MIPG integra y articula el sistema de gestión de calidad con el sistema de control interno"
+        },
+        {
+            "correctAnswerId": "a1-a31",
+            "answers": [
+            {
+                "description": "10 días",
+                "id": "a1-a32",
+                "isCorrect": true
+            },
+            {
+                "description": "20 días",
+                "id": "a1-a33",
+                "isCorrect": false
+            },
+            {
+                "description": "40 días",
+                "id": "a1-a34",
+                "isCorrect": false
+            },
+            {
+                "description": "3 días",
+                "id": "a1-a35",
+                "isCorrect": false
+            }
+            ],
+            "id": "a1-a36",
+            "question": "Cuando una autoridad formule una petición de información o de documentos a otra, esta deberá resolverla en un término no mayor de:",
+            "reason":"De conformidad con el articulo 14 de la Ley 1437 del 2011"
+        },
+        {
+            "correctAnswerId": "a1-a37",
+            "answers": [
+            {
+                "description": "Nulidad",
+                "id": "a1-a38",
+                "isCorrect": false
+            },
+            {
+                "description": "Aceptación",
+                "id": "a1-a39",
+                "isCorrect": false
+            },
+            {
+                "description": "Rechazo",
+                "id": "a1-a40",
+                "isCorrect": true
+            },
+            {
+                "description": "Corrección",
+                "id": "a1-a41",
+                "isCorrect": false
+            }
+            ],
+            "id": "a1-a42",
+            "question": "Cuando se presenta una petición irrespetuosa, se procederá por parte del destinatario a su:",
+            "reason":"De conformidad con el articulo 19 de la Ley 1437 del 2011"
+        },
+        {
+            "correctAnswerId": "a1-a43",
+            "answers": [
+            {
+                "description": "La historia clínica",
+                "id": "a1-a44",
+                "isCorrect": false
+            },
+            {
+                "description": "Las políticas públicas del gobierno",
+                "id": "a1-a45",
+                "isCorrect": true
+            },
+            {
+                "description": "Los datos genéticos humanos",
+                "id": "a1-a46",
+                "isCorrect": false
+            },
+            {
+                "description": "Documentos pensionales de la historia laboral",
+                "id": "a1-a47",
+                "isCorrect": false
+            }
+            ],
+            "id": "a1-a48",
+            "question": "No tiene carácter reservado de la información",
+            "reason":"De conformidad con el articulo 24 de la Ley 1437 del 2011"
+        },
+        {
+            "correctAnswerId": "a1-a49",
+            "answers": [
+            {
+                "description": "15 días siguientes a su recepción",
+                "id": "a1-a50",
+                "isCorrect": true
+            },
+            {
+                "description": "10 días siguientes a su recepción",
+                "id": "a1-a51",
+                "isCorrect": false
+            },
+            {
+                "description": "10 días siguientes a su recepción",
+                "id": "a1-a52",
+                "isCorrect": false
+            },
+            {
+                "description": "65 días siguientes a su recepción",
+                "id": "a1-a53",
+                "isCorrect": false
+            }
+            ],
+            "id": "a1-a54",
+            "question": "No tiene carácter reservado de la información",
+            "reason":"De conformidad con el articulo 14 de la Ley 1437 del 2011"
+        },
+        {
+            "correctAnswerId": "a1-a55",
+            "answers": [
+            {
+                "description": "Ninguna de las anteriores",
+                "id": "a1-a56",
+                "isCorrect": false
+            },
+            {
+                "description": "Modelo de Gestión Administrativa",
+                "id": "a1-a57",
+                "isCorrect": false
+            },
+            {
+                "description": "Metodo de Gasto y Administración de Recursos",
+                "id": "a1-a58",
+                "isCorrect": false
+            },
+            {
+                "description": "Metodología General Ajustada",
+                "id": "a1-a59",
+                "isCorrect": true
+            }
+            ],
+            "id": "a1-a60",
+            "question": "Que significan las siglas MGA",
+            "reason":"Según el DNP la MGA - Metodología General Ajustada es una aplicación informatica que sigue el orden logíco para estructuración de los proyectos"
+        }
+    ]
+}
